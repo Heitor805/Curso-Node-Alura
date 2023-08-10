@@ -1,0 +1,13 @@
+criar projetos como nas fotos
+
+instalando chalk
+
+import chalk from 'chalk';
+esse é o código a ser usado no vscode para importar a biblioteca chalk para o código, é colocado no início do programa
+
+abrir o node e digitar "npm install chalk@5.0.1 -- save exact" o chalk serve para adicionar cores ao terminal
+
+A forma CJS é mais voltada quando é usada apenas em arquivos node, q seriam o require() e o exports, pq não funciona em navegadores e o ESM é o mais usado hoje em dia para lidar com modularidade e bibliotecas, IMPORTANTE LEMBRAR q o CJS e o ESM não são totalmente compátiveis, então idealmente é melhor usar um dos dois o ESM é a melhor escolha
+
+Módulos servem para encapsular uma determinada funcionalidade, para organizar o código
+Dependências implica q o programa sendo executado depende de outros para funcionar então é um termo para especificar pacotes q dependem de outros, ou seja pacotes de terceiros em um programa

@@ -1,0 +1,6 @@
+node_modules
+.DS_store
+
+adicionar isso no node_modules
+
+node_modules é para ignorar a pasta node_modules pq ela só precisa existir localmente e pode ficar muito grande e tb .DS_store caso seja no MAC q é um arquivo q guarda atributos ocultos da página
